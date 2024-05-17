@@ -187,7 +187,7 @@ h3 {
 }
 
 .movie-card::-webkit-scrollbar-thumb:active {
-    background: #a5a5a5d2;
+    background: #6e6e6ed2;
 }
 
 .movie-card div {
@@ -319,13 +319,3 @@ p {
         font-size: 0.3em
     }
 }
-/* 
-
-                            <a href=""><img src="https://occ-0-4451-1432.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABThVMwxeh65ImzS1byNvGRESkSMEi7qK_zLGiWsKSiqwOQ_-KdqfidvUshBZ9muvwHGSW5ev2hXkCez16VMVp1dkYxLZGnDUvyXtBRyvpWl59ny0j2DaUoMygu4sLI3Ui83CqdquLH5M7kyxedjeNYWnonFnJrDfT-YGdCfhLPp_9EH2W_vfuwPxmivrA8WofU50p8f0QDfo0fGpRub3HOHa5G4Me4dXsw6y_WH6jB8B_CErHe5c09P6GDKvItXChCazSaAPAr_XETZE_IGPOM25N9V1bluHMfum2bhMlL4KIL5D5wuhyeidTrakkC2yzQFB-HCd7FzbZ_AeL2ohxUoJQcXg7vKdev_MqKhMvXsITg.jpg?r=8d4" alt=""/></a>
-                            <a href=""><img src="https://occ-0-4451-1432.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZt9Pn5olaKCweHfdEuAoLF3LyReJ-qr3iVsxPqe1iTg7CmnyGrpuXg5hAGEloRp8xZpOmveV2ni-ku6wGr3WWmO5wgumqsg9B5jJJlEE0q8d-TXIPs_rIMSV34OC20X_hzool72A4hWK0ji7VrnDLKMCSxj8iEnTXk.webp?r=f3a" alt=""/></a>
-                            <a href=""><img src="https://occ-0-4451-1432.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABW_3XGZmzFOYcdWABi5ZAAvkIghmOdmdDn0XRTKhj9KyLb2TCiaMXhXJNQlxZW5TVqpnoHLEDpe1yyeLMM7Mpj0Ts_5R5his14afk0qkLobZoBv0E_fcbVQAAcNruRLGWAY-.jpg?r=fdf" alt=""/></a>
-                            <a href=""><img src="https://occ-0-4451-1432.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVQK9IS9cFc9_9qtaiY1MRImq2XyuibnUhJrHNH4XdpDCmjc9_wvCZuwAw5AVAG69XWTWWA62sfbUYRQtVTb9U9osTFSzfU_Pz_48d6AEL4jJjFme8HAV5L8Qs81cc6CYGCGB_8BGziW9OMG1spbHtv3tN4RqtqfH8b7mrWAsFFtR07r0n0JMkiiFoDYv5iZtvnkueeQYp45qfBdhMAwFSvcKspbbnhvLGshGaQW8ffWhW3wUJENlbDFR7-UGac7MyL9gjfWJe4kMtFjng4_yKskb6swcH0pSea6_wJ6KT8baNEGI3U.jpg?r=fae" alt=""/></a>
-                            <a href=""><img src="https://occ-0-4451-1432.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABexRvlPUNKk2lQhN2gNz-osqi1yGPZl9mVUz4jHwC44KjYYOg8dE7H78sdEVGO3u1zghB2G81anI7mNbVjGInq5bt9hyCoOHpMw.webp?r=379" alt=""/></a>
-                            <a href=""><img src="https://occ-0-4451-1432.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXG-_yAl6ykE09XYLmxEggvQq_TxF8gl2FrseMyRuIeIoBdL6nZEP_mQzt2fYfqC0Gq36vFoiEex3AMmcmenYPamq16qrMtgMM1veFHfTL4wluV1S7a4kK-507Mx8GIHWVjd.jpg?r=ce7" alt=""/></a>
-
-                            */
